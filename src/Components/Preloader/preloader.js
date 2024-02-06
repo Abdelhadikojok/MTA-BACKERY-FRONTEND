@@ -11,7 +11,7 @@ function Preloader() {
   return (
     <div className={`${styles.preload} ${!loading ? styles.loaded : ""}`}>
       <div className={styles.circle}></div>
-      <p className={styles.text}>Al Hamidi</p>
+      <p className={styles.text}>MTA BACKERY</p>
     </div>
   );
 }
