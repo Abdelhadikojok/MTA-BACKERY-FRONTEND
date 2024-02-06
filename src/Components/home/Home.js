@@ -9,7 +9,7 @@ export default function Home() {
           <p class="home-text">
             <div style={{ display: "flex", gap: "10px" }}>
               <span>اطلب </span>
-              <p> , معجنات الحميدي </p>
+              <p>, MTA BACKERY </p>
             </div>
             <p> و استمتع بجودة الطعم</p>
           </p>
