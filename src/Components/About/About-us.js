@@ -32,7 +32,7 @@ export default function AboutUs() {
             className="about-us-iamge"
           />
           <p className="since-date">
-            Since 1999
+            Since 2023
             <img className="badge2" alt="badge2" src={badge2} />
           </p>
         </div>
@@ -42,11 +42,11 @@ export default function AboutUs() {
             alt="about-us-iamges"
             className="about-us-iamge "
           />
-          <img src={imagepattern} className="imagepattern" />
+          <img src={imagepattern} className="imagepattern" alt="" />
         </div>
       </div>
-      <img src={shape1} className="shape1-image" />
-      <img src={shape2} className="shape2-image" />
+      <img src={shape1} className="shape1-image" alt="" />
+      <img src={shape2} className="shape2-image" alt="" />
     </div>
   );
 }

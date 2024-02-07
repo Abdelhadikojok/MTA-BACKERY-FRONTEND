@@ -105,8 +105,8 @@ function Header() {
               <p className={`headline-1 ${styles["navbar-title"]}`}>Visit Us</p>
 
               <div className="body-4">
-                Tripoli - monla street-face <br />
-                to chater hassan
+                زغرتا مجدليا <br />
+                بجانب صيدلية الوهيب
               </div>
 
               <p className="body-4 navbar-text">Open: 6.00 am to 4.00 pm</p>

@@ -34,7 +34,7 @@ function TopBar() {
                 alt="Location Pin"
               /> */}
             <span className={styles["topbar-item"]}>
-              Tripoli - monla street-face to chater hassan
+              Zgharta Magdala - Next to Al Wahaib Pharmacy
             </span>
           </div>
           <div className="separator"></div>
